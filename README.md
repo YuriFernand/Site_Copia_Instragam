@@ -14,7 +14,7 @@
 * [Conclusão](#conclusão)
 
 # 📁 Acesso ao projeto
-<a src="https://yurifernand.github.io/Site_Copia_Instragam/"> link so projto</a>
+<a href="https://yurifernand.github.io/Site_Copia_Instragam/"> link so projto</a>
 
 
 
