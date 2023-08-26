@@ -14,5 +14,8 @@
   <li>CSS</li>
 </ol>
 
+# Autor
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82898931?v=4" width=115><br><sub>Yuri Fernando </sub>](https://github.com/YuriFernand) |
 
 
