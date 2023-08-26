@@ -6,7 +6,7 @@
 
 
 # 📁 Acesso ao projeto
-<a href="https://yurifernand.github.io/Site_Copia_Instragam/"> link do projeto</a>
+<a href="https://yurifernand.github.io/Site_Copia_Instragam/" Target="_blank"> link do projeto</a>
 
 <h2>Tecnologias Utilizadas</h2>
 <ol>
