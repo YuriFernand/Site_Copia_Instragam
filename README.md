@@ -3,18 +3,16 @@
 <h2>Discição Do Projeto</h2>
 <p>Projeto criando para parecer o mais próximo possível da tela de login do instragam, sendo só visual, para colocar conhecimento em prática </p>
 
-# Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#conclusão)
 
 # 📁 Acesso ao projeto
 <a href="https://yurifernand.github.io/Site_Copia_Instragam/"> link do projeto</a>
+
+<h2>Tecnologias Utilizadas</h2>
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+</ol>
 
 
 
